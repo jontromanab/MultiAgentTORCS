@@ -86,3 +86,10 @@ Do check out [the wiki](https://github.com/abhisheknaik96/MultiAgentTORCS/wiki) 
 ## Credits
 
 The multi-agent learning simulator was developed by [Abhishek Naik](http://abhisheknaik96.github.io), extending `ugo-nama-kun`'s [`gym-torcs`](https://github.com/ugo-nama-kun/gym_torcs), and `yanpanlau`'s [project](https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html) under the guidance of Anirban Santara, Balaraman Ravindran, and Bharat Kaul, at Intel Labs.
+
+More info:
+
+[blog] https://software.intel.com/en-us/articles/madras-a-multi-agent-driving-simulator
+[wiki] https://github.com/abhisheknaik96/MultiAgentTORCS/wiki
+[video] https://www.youtube.com/watch?v=ZKzExvth3UE
+
